@@ -1,0 +1,15 @@
+-------------------
+input chars = 
+er   hook or me this time  chapter  the return home chapter  when wendy grew up   chapter  peter bre"
+predicted chars = 
+atemed.  my. ladeng, and ther ammithers lagneng to to had heard at ther, haver! he soid hat llagt in"
+-------------------
+input chars = 
+as all that passed between them on the subject, but henceforth wendy knew that she must grow up. you"
+predicted chars = 
+ mectioning fuld herro.  do go fully fill year ans.  foh me noungerll for peter. it was not to lit t"
+-------------------
+input chars = 
+more; and her sweet mocking mouth had one kiss on it that wendy could never get, though there it was"
+predicted chars = 
+, and striss this she was it to he hat for mratess gate. he said, then at in had another plopped att"
